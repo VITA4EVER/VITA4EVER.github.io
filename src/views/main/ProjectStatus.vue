@@ -3,7 +3,7 @@
         <div class="hero-overlay"></div>
         <div class="hero-content text-neutral-content text-center">
             <div class="text-left">
-                <h1 class="mb-5 text-5xl font-bold text-center">Project Status</h1>
+                <h1 class="mb-5 text-5xl font-bold text-center"><span class="text-red-600">Project</span> <span class="text-indigo-500">Status</span></h1>
                 <p class="text-center">On this page you can quickly see what's going on with the development.</p>
                 <p class="text-center">Press on the collapses to see additional information.</p><br>
 

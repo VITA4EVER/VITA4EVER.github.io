@@ -25,6 +25,7 @@
           <a href="https://github.com/VITA4EVER/" class="btn bg-gray-400 text-black m-1">Github</a>
           <RouterLink to="/rss" class="btn bg-orange-600 text-black m-1 ">RSS</RouterLink>
           <RouterLink to="/project-status" class="btn bg-cyan-400 text-cyan-950 m-1">Project Status</RouterLink>
+          <RouterLink to="/code-of-conduct" class="btn bg-red-500 text-white m-1">COC</RouterLink>
 
         </ul> <!-- End of mobile dropdown -->
       </div>
@@ -39,7 +40,8 @@
         <li class="border-2 rounded-xl border-gray-400"><a href="https://github.com/VITA4EVER/">Github</a></li>
         <!--<li class="border-2 rounded-xl border-emerald-700"><RouterLink to="/status/kzv">KZV Status</RouterLink></li>-->
         <li class="border-2 rounded-xl border-orange-600"><RouterLink to="/rss">RSS</RouterLink></li>
-        <li class="border-2 rounded-xl border-x-cyan-400"><RouterLink to="/project-status">Project Status</RouterLink></li>
+        <li class="border-2 rounded-xl border-cyan-400"><RouterLink to="/project-status">Project Status</RouterLink></li>
+        <li class="border-2 rounded-xl border-x-red-600 border-y-indigo-500"><RouterLink to="/code-of-conduct">Code Of Conduct</RouterLink></li>
       </ul> <!-- End of the center navbar -->
     </div>
     <div class="navbar-end">

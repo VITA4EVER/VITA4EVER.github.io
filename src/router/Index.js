@@ -9,6 +9,7 @@ import CreditsPage from "@/views/main/Credits.vue";
 import DevlogsPage from "@/views/main/Devlogs.vue";
 import RSS from "@/views/main/RSS.vue";
 import ProjectStatus from "@/views/main/ProjectStatus.vue";
+import CodeOfConduct from "@/views/main/CodeOfConduct.vue";
 
 /* Mirage DEVLOG PAGES */
 
@@ -54,6 +55,11 @@ const routes = [
     path: "/project-status",
     name: "ProjectStatus",
     component: ProjectStatus
+  },
+  {
+    path: "/code-of-conduct",
+    name: "CodeOfConduct",
+    component: CodeOfConduct
   },
 
   /* Devlog pages */

@@ -6,6 +6,34 @@
         <description>Revive the past - Together.</description>
         <language>en-us</language>
 
+        <!-- 1 -->
+        <item>
+            <title>Small Website Update</title>
+            <link>https://vita4ever.github.io/#/rss</link>
+            <author>Alex Brown Sobinec</author>
+            <pubDate>Fri, 7 Mar 2025 12:00:00 GMT</pubDate>
+            <description>A small website update, nothing much.</description>
+
+            <!-- Article content itself -->
+            <content><![CDATA[
+                <p>Greetings!</p>
+                <p>In this small website update we:</p>
+                <ol>
+                    <li>Added our Code Of Conduct that contains game rules and Discord server rules.</li>
+                    <li>Updated some styles</li>
+                    <li>Removed a typo in the header.</li>
+                </ol>
+
+                <p>Is that <b>all</b>?</p>
+                <p>With VITA4EVER, <b>Revive the past - Together.</b></p>
+                <p>Indeed, that is all. Ignore any text below, it's simply an error in the XML parser.</p>
+
+                <p>Prope hic dies sunt, cum iterum omnes iterum iungemur, primae tabulae semper par vobis mox praebebuntur. Exspecta nos ut caelos accendas.</p>
+            ]]></content>
+
+        </item>
+
+        <!-- 0 -->
         <item>
             <title>Feed Created!</title>
             <link>https://vita4ever.github.io/#/rss</link>
