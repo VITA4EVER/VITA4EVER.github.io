@@ -6,6 +6,27 @@
         <description>Revive the past - Together.</description>
         <language>en-us</language>
 
+        <!-- 2 -->
+        <item>
+            <title>WE ARE IN THE GAME!</title>
+            <link>https://vita4ever.github.io/#/rss</link>
+            <author>Alex Brown Sobinec</author>
+            <pubDate>Fri, 7 Mar 2025 12:00:00 GMT</pubDate>
+            <description>Great news!</description>
+
+            <!-- Article content itself -->
+            <content><![CDATA[
+                <p>Greetings, everyone!</p>
+                <p>I would like to announce, that we are in the game!</p>
+                <p>You can find some videos of us playing test matches here:</p>
+                <a href="https://youtu.be/B3tG4w4rP1o">Video by Just Killzone</a>
+                <a href="https://youtu.be/WUHS5ibSMxo">Video by Eftlz06</a>
+                <p>I would like to note that it might take some more time to finish up some things, so give us some time.</p>
+                <p>With VITA4EVER, <b>Revive the past - Together? TOGETHER!</b></p
+            ]]></content>
+
+        </item>
+        
         <!-- 1 -->
         <item>
             <title>Small Website Update</title>
