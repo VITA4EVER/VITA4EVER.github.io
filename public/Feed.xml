@@ -6,6 +6,26 @@
         <description>Revive the past - Together.</description>
         <language>en-us</language>
 
+        <!-- 3 -->
+        <item>
+            <title>WE ARE GOING PUBLIC!</title>
+            <link>https://vita4ever.github.io/#/rss</link>
+            <author>Alex Brown Sobinec</author>
+            <pubDate>Mon, 10 Mar 2025 12:00:00 GMT</pubDate>
+            <description>Killzone Mercenary Server is now Public!</description>
+
+            <!-- Article content itself -->
+            <content><![CDATA[
+                <p>Greetings, everyone!</p>
+                <p>I would like to announce, that the servers are now public!</p>
+                <p>In order for you to connect to the servers, you will need to follow <a href="https://mirage.yuv.pink/guide">text guide</a> or a <a href="https://youtu.be/8oDXjPDfyYQ">video guide.</a></p>
+                <p>You can now play Killzone Mercenary online again! We will soon have regular events that you can attend, so stay tuned!</p>
+                <p>Now, go play, and have fun!</p>
+                <p>With VITA4EVER, <b>Revive the past - Together!</b></p
+            ]]></content>
+
+        </item>
+        
         <!-- 2 -->
         <item>
             <title>WE ARE IN THE GAME!</title>
