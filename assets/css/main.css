@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+}
+
+.grid-bg {
+  /* dotted grid: tiny dots placed in a repeating square pattern */
+  background-image: 
+    repeating-radial-gradient(
+      circle at 0 0,
+      rgba(0,0,0,0.06) 0,
+      rgba(0,0,0,0.06) 1px,
+      transparent 1px,
+      transparent 20px
+    );
+
+  /* size of each grid cell (adjust to taste) */
+  background-size: 20px 20px;
+
+  /* optional: keep grid fixed while scrolling */
+  background-attachment: fixed;
+}
+
+h1 {
+  @apply text-3xl font-bold;
+}
+
+h2 {
+  @apply text-3xl font-bold;
+}
+
+h3 {
+  @apply text-4xl font-bold;
+}
+
+p {
+  @apply text-2xl;
+}
+
+b {
+  @apply font-bold;
+}
+
+hr {
+  @apply mt-8 mb-8 rounded-full min-h-3
+}
+
+.section {
+  @apply w-screen min-h-screen h-full relative bg-cover bg-center text-emerald-50;
+}
+
+.drk-rect {
+  @apply bg-black/90 absolute inset-0;
+}
